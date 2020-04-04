@@ -1,0 +1,13 @@
+
+spring:
+  application:
+    name: config-server
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/jjayaraman/config-server-repo
+          default-label: master
+#          skip-ssl-validation: true
+
