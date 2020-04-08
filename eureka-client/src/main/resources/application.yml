@@ -1,0 +1,11 @@
+
+
+
+
+
+## Configuring info endpoint
+info:
+  app:
+    name: Spring cloud eureka client app
+    description: This is an example for spring cloud eureka client application
+    version: 1.0.0
